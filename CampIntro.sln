@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "..\Collectio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "..\GenericsIntro\GenericsIntro.csproj", "{B3119A87-5E93-4A8E-980A-4C62CC5CF6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "..\MyDictionary\MyDictionary.csproj", "{F4DF3A88-0D04-4203-B8CC-E7E5C2EE995B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "..\MyDictionary\MyDictionary.csproj", "{F4DF3A88-0D04-4203-B8CC-E7E5C2EE995B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
