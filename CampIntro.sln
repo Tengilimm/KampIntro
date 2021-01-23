@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "..\Generic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "..\MyDictionary\MyDictionary.csproj", "{F4DF3A88-0D04-4203-B8CC-E7E5C2EE995B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "..\OOP2\OOP2.csproj", "{48029F59-5C1F-49CB-9736-3DC30848BD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "..\OOP3\OOP3.csproj", "{965156AB-8821-4483-B8DF-CBFC788017CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{F4DF3A88-0D04-4203-B8CC-E7E5C2EE995B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4DF3A88-0D04-4203-B8CC-E7E5C2EE995B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4DF3A88-0D04-4203-B8CC-E7E5C2EE995B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48029F59-5C1F-49CB-9736-3DC30848BD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48029F59-5C1F-49CB-9736-3DC30848BD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48029F59-5C1F-49CB-9736-3DC30848BD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48029F59-5C1F-49CB-9736-3DC30848BD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965156AB-8821-4483-B8DF-CBFC788017CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965156AB-8821-4483-B8DF-CBFC788017CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965156AB-8821-4483-B8DF-CBFC788017CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965156AB-8821-4483-B8DF-CBFC788017CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
